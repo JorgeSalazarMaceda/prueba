@@ -1,0 +1,29 @@
+{
+    "supported_languages": ["es", "en", "fr"],
+    "language_strings": {
+        "es": {
+            "inicio": "Sobre mí",
+            "portafolio": "Portafolio",
+            "servicios": "Servicios",
+            "curriculum": "Currículum",
+            "contacto": "Contacto",
+            "idioma": "Idioma"
+        },
+        "en": {
+            "inicio": "About Me",
+            "portafolio": "Portfolio",
+            "servicios": "Services",
+            "curriculum": "Curriculum Vitae",
+            "contacto": "Contact",
+            "idioma": "Language"
+        },
+        "fr": {
+            "inicio": "À propos de moi",
+            "portafolio": "Portefeuille",
+            "servicios": "Services",
+            "curriculum": "Curriculum Vitae",
+            "contacto": "Contact",
+            "idioma": "Langue"
+        }
+    }
+}
